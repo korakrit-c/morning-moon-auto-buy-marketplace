@@ -1,0 +1,22 @@
+{
+  "name": "morning-moon-auto-buy-marketplace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/korakrit-c/morning-moon-auto-buy-marketplace.git"
+  },
+  "author": "korakrit-c",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/korakrit-c/morning-moon-auto-buy-marketplace/issues"
+  },
+  "homepage": "https://github.com/korakrit-c/morning-moon-auto-buy-marketplace#readme",
+  "dependencies": {
+    "ethers": "^5.5.1"
+  }
+}
